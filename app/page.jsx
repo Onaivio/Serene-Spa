@@ -49,7 +49,7 @@ const Home = () => {
                   onMouseLeave={mouseLeaveHandler}
                   className="btn btn-lg"
                 >
-                  Book an appointmenty
+                  Book an appointment
                 </motion.button>
               </a>
               <motion.div
